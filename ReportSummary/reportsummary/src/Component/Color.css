@@ -1,0 +1,14 @@
+:root{
+    --primary-color:hsl(252, 100%, 67%);
+    --circle-color:hsla(256, 72%, 46%, 1);
+    --text-color:hsl(0, 0%, 100%);
+    --text-low-opacity:hsl(241, 100%, 89%);
+    --light-red: hsl(0, 46%, 95%);
+    --orangey-yellow: hsl(39, 100%, 56%);
+    --Green-teal: hsl(166, 100%, 37%);
+    --Cobalt-blue: hsl(234, 85%, 45%);
+    --reaction-red: hsl(0, 100%, 67%);
+    --total-marks:hsla(225, 26%, 47%, 0.655);
+    --button-color:hsl(224, 30%, 27%);
+
+}
