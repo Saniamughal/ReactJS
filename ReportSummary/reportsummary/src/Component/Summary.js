@@ -28,7 +28,7 @@ const Summary=()=>{
         }}>
       {jsonData.map((data)=>(
        
-        <ReportSummary title={data.category} score={data.score} titleColor="var(--reaction-red)" backgroundColor="var(--light-red)" image={data.icon} />
+        <ReportSummary title={data.category} score={data.score} backgroundColor={`var(${data.backgroundColor})`} colorOfTitle={`var(${data.titleColor})`} image={data.icon} />
           
       ))}
             {/* <ReportSummary title="Reaction" score="80" titleColor="var(--reaction-red)" backgroundColor="var(--light-red)" image={reaction} />
