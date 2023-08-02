@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactJS/static/css/main.1cafa257.css",
-    "main.js": "/ReactJS/static/js/main.007c5f70.js",
-    "static/js/787.1d4deaca.chunk.js": "/ReactJS/static/js/787.1d4deaca.chunk.js",
+    "main.css": "/ReactJS/static/css/main.801f4613.css",
+    "main.js": "/ReactJS/static/js/main.2a0ff787.js",
+    "static/js/787.91a9e731.chunk.js": "/ReactJS/static/js/787.91a9e731.chunk.js",
     "index.html": "/ReactJS/index.html",
-    "main.1cafa257.css.map": "/ReactJS/static/css/main.1cafa257.css.map",
-    "main.007c5f70.js.map": "/ReactJS/static/js/main.007c5f70.js.map",
-    "787.1d4deaca.chunk.js.map": "/ReactJS/static/js/787.1d4deaca.chunk.js.map"
+    "main.801f4613.css.map": "/ReactJS/static/css/main.801f4613.css.map",
+    "main.2a0ff787.js.map": "/ReactJS/static/js/main.2a0ff787.js.map",
+    "787.91a9e731.chunk.js.map": "/ReactJS/static/js/787.91a9e731.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cafa257.css",
-    "static/js/main.007c5f70.js"
+    "static/css/main.801f4613.css",
+    "static/js/main.2a0ff787.js"
   ]
 }
